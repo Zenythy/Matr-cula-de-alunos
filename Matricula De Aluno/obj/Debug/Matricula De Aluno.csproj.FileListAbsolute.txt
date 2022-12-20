@@ -1,0 +1,11 @@
+Y:\Visual Studio Projetos\Matricula De Aluno\Matricula De Aluno\bin\Debug\Matricula De Aluno.exe.config
+Y:\Visual Studio Projetos\Matricula De Aluno\Matricula De Aluno\bin\Debug\Matricula De Aluno.exe
+Y:\Visual Studio Projetos\Matricula De Aluno\Matricula De Aluno\bin\Debug\Matricula De Aluno.pdb
+Y:\Visual Studio Projetos\Matricula De Aluno\Matricula De Aluno\obj\Debug\Matricula De Aluno.csproj.AssemblyReference.cache
+Y:\Visual Studio Projetos\Matricula De Aluno\Matricula De Aluno\obj\Debug\Matricula De Aluno.csproj.SuggestedBindingRedirects.cache
+Y:\Visual Studio Projetos\Matricula De Aluno\Matricula De Aluno\obj\Debug\Matricula_De_Aluno.Form1.resources
+Y:\Visual Studio Projetos\Matricula De Aluno\Matricula De Aluno\obj\Debug\Matricula_De_Aluno.Properties.Resources.resources
+Y:\Visual Studio Projetos\Matricula De Aluno\Matricula De Aluno\obj\Debug\Matricula De Aluno.csproj.GenerateResource.cache
+Y:\Visual Studio Projetos\Matricula De Aluno\Matricula De Aluno\obj\Debug\Matricula De Aluno.csproj.CoreCompileInputs.cache
+Y:\Visual Studio Projetos\Matricula De Aluno\Matricula De Aluno\obj\Debug\Matricula De Aluno.exe
+Y:\Visual Studio Projetos\Matricula De Aluno\Matricula De Aluno\obj\Debug\Matricula De Aluno.pdb
