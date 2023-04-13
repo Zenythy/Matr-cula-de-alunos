@@ -1,2 +1,2 @@
-# Matr-cula-de-alunos
+# Matricula-de-alunos
 Sistema de matrícula de alunos
